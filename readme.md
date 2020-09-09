@@ -73,6 +73,7 @@ Computing
   - [Octave](https://www.gnu.org/software/octave/)
 * [Mathematica](https://www.wolfram.com/mathematica/) - Symbolic computations. Free alternative
   - [Sage](http://www.sagemath.org/)
+* [Julia](https://julialang.org) - A dynamic and growing language for scientific computation with open source. Easy to learn. Fast to run. 
 
 Sharing
 
